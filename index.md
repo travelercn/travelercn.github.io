@@ -41,7 +41,8 @@
 
 ## 付费套餐介绍
 
-![](image/2.png)
+![](image/plan_1.png)
+![](image/plan_2.png)
 
 ### 试用
 
