@@ -69,13 +69,13 @@
 
 ### 半年 9 折优惠
 
-- 优惠代码：**FB2025-6MONTH**
+- 优惠代码：**NEWUSER-6MONTH**
 - 适用套餐：Basic STARTER 以上, Pro STARTER 以上
 - 付款周期：半年付
 
 ### 年付 85 折优惠
 
-- 优惠代码：**FB2025-12MONTH**
+- 优惠代码：**NEWUSER-12MONTH**
 - 适用套餐：Basic STARTER 以上, Pro STARTER 以上
 - 付款周期：年付
 
